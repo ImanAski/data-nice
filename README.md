@@ -28,15 +28,27 @@ This is the journey for grasping the fundamentals of hows and whys of systems.
 
 ## Authentication
 
+- [ ] TODO
+
 ## Authorization
+
+- [ ] TODO
 
 ## Catalog
 
+- [ ] TODO
+ 
 ## Validation Engine
+
+- [ ] TODO
 
 # Storage
 
+- [ ] TODO
+
 # Lineage
+
+- [ ] TODO
 
 Think of this layer as a (potentially) complex graphing system. for example:
 
