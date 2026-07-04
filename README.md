@@ -2,6 +2,11 @@
 
 This is the journey for grasping the fundamentals of hows and whys of systems.
 
+## Notes
+
+I've used `uv` for managing packages, it's a good practice to keep it that way
+but feel free to use raw python `venv` for running
+
 ## Requirements
 
 - Data Lineage
@@ -78,3 +83,7 @@ flowchart LR
   remove --> execute(Execute SQL)
   execute --> result(Voila!!!, Data is cooked)
 ```
+
+## Contribution
+
+You can see anything I come up in [CONTRIBUTION.md](CONTRIBUTION.md)
