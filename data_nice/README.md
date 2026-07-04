@@ -1,5 +1,7 @@
 # Project Data Nice
 
+This is the journey for grasping the fundamentals of hows and whys of systems.
+
 ## Requirements
 
 - Data Lineage
