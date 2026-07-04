@@ -48,8 +48,6 @@ This is the journey for grasping the fundamentals of hows and whys of systems.
 
 # Lineage
 
-- [ ] TODO
-
 Think of this layer as a (potentially) complex graphing system. for example:
 
 ```mermaid
